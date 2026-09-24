@@ -1,4 +1,6 @@
 ---
+genres:
+  - puzzle
 post: https://twelvegamesayear.blogspot.com/2017/09/js13k-2017-lost-packets-retrospective.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
